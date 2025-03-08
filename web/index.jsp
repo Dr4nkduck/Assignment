@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>sigma boy</title>
+        <title>Meth carrier</title>
         <%@include file ="all_component/allCss.jsp"%>
         <style type="text/css">
             .back-img{
