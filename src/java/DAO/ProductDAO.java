@@ -73,7 +73,7 @@ public class ProductDAO extends MyDAO {
         return products;
     }
 
-    public Product getproductById(int id) throws Exception {
+    public Product getProductById(int id) throws Exception {
         Product product = null;
         xSql = "SELECT * FROM product WHERE productId = ?";
 
